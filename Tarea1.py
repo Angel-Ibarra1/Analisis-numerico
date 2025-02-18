@@ -67,7 +67,7 @@ for a, b, c in ejemplos:
 #%%
 # Ejercicio 5
 import numpy as np
-
+# Evaluar una trayectoria con una expresion dada, escribir el valor de todas las variables involucradas junto con las unidades usadas.
 # Parámetros de la trayectoria
 v0 = 10  # m/s, velocidad inicial
 theta = np.radians(45)  # grados a radianes

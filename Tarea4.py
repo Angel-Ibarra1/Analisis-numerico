@@ -143,7 +143,7 @@ print(f"  Resultado: {best_central_result:.10f}")
 print(f"  Error absoluto: {abs(best_central_result - true_derivative):.2e}")
 
 #%%
-
+"""Problema 1"""
 # Definimos la función
 from math import tan, log, pi
 import matplotlib.pyplot as plt
